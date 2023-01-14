@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 # Olá! Eu sou o Danrley Saquetti
 
 ## Sobre Mim
@@ -34,7 +32,8 @@ Sou um desenvolvedor de software júnior com interesse em sistemas Web, cursado 
 
 ## Contatos
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="danrley-saquetti-0b4737250" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/danrley-saquetti-0b4737250?trk=profile-badge">Danrley Saquetti</a></div>
+* [GitHub](https://github.com/Danrley-Ruan-Saquetti)
+* [Linkedin](https://br.linkedin.com/in/danrley-saquetti-0b4737250?trk=profile-badge)
               
 
 ![Snake animation](https://github.com/Danrley-Ruan-Saquetti/Danrley-Ruan-Saquetti/blob/output/github-contribution-grid-snake.svg)
