@@ -1,16 +1,3 @@
-<style>
-  .item {
-    display: flex;
-    flex-direction: column;
-  }
-  .item .item-header {
-    font-size: 18px;
-  }
-  .item .item-sub-header {
-    text-indent: 25px;
-  }
-</style>
-
 # Olá! Eu sou o Danrley Saquetti
 
 ## Sobre Mim
@@ -19,7 +6,7 @@ Sou um desenvolvedor de software júnior com interesse em sistemas Web, cursado 
 
 ## Formação
 
-* <p class="item"><span class="item-header">Curso Técnico Integrado ao Ensino Médio</span><span class="item-sub-header">Instituto Federal Catarinense (2020 - 2022)</span></p>
+* <p><span style="font-size: 18px;">Curso Técnico Integrado ao Ensino Médio</span><br><span style="margin-left: 25px;">Instituto Federal Catarinense (2020 - 2022)</span></p>
 
 ## Competências
 
