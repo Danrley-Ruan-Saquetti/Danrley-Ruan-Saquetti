@@ -10,7 +10,7 @@ Sou um desenvolvedor de software júnior com interesse em sistemas Web, cursado 
 
 ## Experiências
 
-* Curso Técnico Integrado ao Ensino Médio<br>Instituto Federal Catarinense (2020 - 2022)
+* Monitor de Informática no IFC (2022)
 
 ## Competências
 
