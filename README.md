@@ -8,6 +8,10 @@ Sou um desenvolvedor de software júnior com interesse em sistemas Web, cursado 
 
 * Curso Técnico Integrado ao Ensino Médio<br>Instituto Federal Catarinense (2020 - 2022)
 
+## Experiências
+
+* Curso Técnico Integrado ao Ensino Médio<br>Instituto Federal Catarinense (2020 - 2022)
+
 ## Competências
 
 * Mongoose ODM
@@ -25,5 +29,10 @@ Sou um desenvolvedor de software júnior com interesse em sistemas Web, cursado 
 * Java
 * TypeScript
 * JavaScript
+
+## Contatos
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="danrley-saquetti-0b4737250" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/danrley-saquetti-0b4737250?trk=profile-badge">Danrley Saquetti</a></div>
+              
 
 ![Snake animation](https://github.com/Danrley-Ruan-Saquetti/Danrley-Ruan-Saquetti/blob/output/github-contribution-grid-snake.svg)
