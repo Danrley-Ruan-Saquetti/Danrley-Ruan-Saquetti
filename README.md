@@ -33,7 +33,8 @@ Sou um desenvolvedor de software júnior com interesse em sistemas Web, cursado 
 ## Contatos
 
 * [GitHub](https://github.com/Danrley-Ruan-Saquetti)
-* [Linkedin](https://br.linkedin.com/in/danrley-saquetti-0b4737250?trk=profile-badge)
+* [Linkedin](https://www.linkedin.com/in/danrley-saquetti)
+* [Instagram](https://www.instagram.com/dan__ruan)
 * WhatsApp: (47) 98800-4598
 * E-mail: danrsaquetti@gmail.com            
 
