@@ -4,6 +4,10 @@
 
 Sou um desenvolvedor de software júnior com interesse em sistemas Web, cursado em [Técnico em Informática](#formação) Integrado ao Ensino Médio no Instituto Federal Catarinense de Ibirama (2020 - 2022), onde fui monitor de informática no ano de 2022, competente em [tecnologias Web](#competências) como HTML5, CSS e SASS para FrontEnd e NodeJS e suas Tecnologias para BackEnd.
 
+## Currículo
+
+Para ver meu currículo, clique [aqui](https://github.com/Danrley-Ruan-Saquetti/Danrley-Ruan-Saquetti/blob/master/src/documents/CURRICULUM%20VITAE%20-%20DANRLEY%20RUAN%20SAQUETTI.pdf).
+
 ## Formação
 
 * Curso Técnico Integrado ao Ensino Médio<br>Instituto Federal Catarinense (2020 - 2022)
@@ -39,7 +43,7 @@ Sou um desenvolvedor de software júnior com interesse em sistemas Web, cursado 
 * [Linkedin](https://www.linkedin.com/in/danrley-saquetti)
 * [Instagram](https://www.instagram.com/dan__ruan)
 * WhatsApp: (47) 98800-4598
-* E-mail: danrsaquetti@gmail.com            
+* E-mail: danrsaquetti@gmail.com
 
 <div align="center">
   <a href="https://github.com/Danrley-Ruan-Saquetti">
