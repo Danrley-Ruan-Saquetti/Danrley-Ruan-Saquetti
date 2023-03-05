@@ -21,29 +21,28 @@ Para ver meu currículo, clique [aqui](https://github.com/Danrley-Ruan-Saquetti/
 
 ## Competências
 
-* Mongoose ODM
-* Socket.io
-* Express.js
-* React.js
-* GitHub
-* SASS
-* CSS
-* HTML5
-* Node.js
-* MongoDB
-* MySQL
-* PHP
-* Java
-* TypeScript
 * JavaScript
+* TypeScript
+* NodeJS
+* ReactJS
+* Java
+* PHP
+* HTML
+* SASS/CSS
+* MySQL
+* ExpressJS
+* MongoDB
+* Mongoose
+* Socket.io
+* Git/GitHub
 
 ## Contatos
 
-* [GitHub](https://github.com/Danrley-Ruan-Saquetti)
-* [Linkedin](https://www.linkedin.com/in/danrley-saquetti)
-* [Instagram](https://www.instagram.com/dan__ruan)
-* WhatsApp: (47) 98800-4598
+* GitHub [Danrley-Ruan-Saquetti](https://github.com/Danrley-Ruan-Saquetti)
+* Linkedin [Danrley Saquetti](https://www.linkedin.com/in/danrley-saquetti)
+* Instagram [@dan__ruan](https://www.instagram.com/dan__ruan)
 * E-mail: danrsaquetti@gmail.com
+* WhatsApp: (47) 98800-4598
 
 <div align="center">
   <a href="https://github.com/Danrley-Ruan-Saquetti">
