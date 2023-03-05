@@ -11,6 +11,9 @@ Sou um desenvolvedor de software júnior com interesse em sistemas Web, cursado 
 ## Experiências
 
 * Monitor de Informática no IFC (2022)
+  - Atuei como bolsista de ensino de monitoria na área da Informática, com carga horária de 288 horas.
+* Auxiliar de Atendimento Temporário (2022)
+  - Trabalho como auxiliar de atendimento temporário na sede da Viacredi Alto Vale.
 
 ## Competências
 
