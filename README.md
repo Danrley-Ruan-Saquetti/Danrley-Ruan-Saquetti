@@ -50,8 +50,6 @@ Para ver meu currículo, clique [aqui](https://github.com/Danrley-Ruan-Saquetti/
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danrley-Ruan-Saquetti&layout=compact&langs_count=5&theme=dracula"/>
 </div>
   
-<div align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Danrley-Ruan-Saquetti&theme=dracula&column=3&margin-w=15&margin-h=15)
-</div>
+![trophy](https://github-profile-trophy.vercel.app/?username=Danrley-Ruan-Saquetti&theme=dracula&column=3&margin-w=15&margin-h=15)
  
 ![Snake animation](https://github.com/Danrley-Ruan-Saquetti/Danrley-Ruan-Saquetti/blob/output/github-contribution-grid-snake.svg)
