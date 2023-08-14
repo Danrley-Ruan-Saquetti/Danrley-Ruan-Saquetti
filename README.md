@@ -17,7 +17,9 @@ Para ver meu currículo, clique [aqui](https://github.com/Danrley-Ruan-Saquetti/
 * Monitor de Informática no IFC (2022)
   - Atuei como bolsista de ensino de monitoria na área da Informática, com carga horária de 288 horas.
 * Auxiliar de Atendimento Temporário (2022)
-  - Trabalho como auxiliar de atendimento temporário na sede da Viacredi Alto Vale.
+  - Trabalhei como auxiliar de atendimento temporário na sede da Viacredi Alto Vale.
+* Auxiliar de escritorio em geral (2023 - Atual)
+  - Trabalho como suporte da plataforma e-commerce da Panorama Sistemas, atuando principalmente no setor de Logística de Frete e Rastreio.
 
 ## Competências
 
