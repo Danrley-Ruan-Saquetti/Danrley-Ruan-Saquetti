@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor de software júnior com interesse em sistemas Web, cursado em [Técnico em Informática](#formação) Integrado ao Ensino Médio no Instituto Federal Catarinense de Ibirama (2020 - 2022), onde fui monitor de informática no ano de 2022, competente em [tecnologias Web](#competências) como HTML5, CSS e SASS para FrontEnd e NodeJS e suas Tecnologias para BackEnd.
+Sou um desenvolvedor de software com interesse em sistemas Web, cursado em [Técnico em Informática](#formação) Integrado ao Ensino Médio no Instituto Federal Catarinense de Ibirama (2020 - 2022), onde fui monitor de informática no ano de 2022, competente em [tecnologias Web](#competências) como HTML5, CSS e SASS para FrontEnd e NodeJS e suas Tecnologias para BackEnd.
 
 ## Currículo
 
@@ -21,19 +21,33 @@ Para ver meu currículo, clique [aqui](https://github.com/Danrley-Ruan-Saquetti/
 
 ## Competências
 
-* JavaScript
-* TypeScript
-* NodeJS
-* ReactJS
-* Java
+### Linguagens
+
+* JavaScript/TypeScript
 * PHP
-* HTML
-* SASS/CSS
+* Java
+
+### Backend
+
+* NodeJS
+* NestJS
 * MySQL
-* ExpressJS
 * MongoDB
-* Mongoose
+* Postgresql
+
+### Frontend
+
+* ReactJS
+* HTML
+* Javascript
+* SASS/CSS
+
+### Tecnologias
+
+* NestJS
+* ExpressJS
 * Socket.io
+* Prisma
 * Git/GitHub
 
 ## Contatos
