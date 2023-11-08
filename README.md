@@ -8,20 +8,18 @@ Para ver meu currículo, clique [aqui](https://github.com/Danrley-Ruan-Saquetti/
 
 ## 🌐 Social
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/danrley.saquetti.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dan__ruan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danrley-saquetti) [![Whatsapp](https://img.shields.io/badge/Whatsapp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/47988004598) [![GitHub](https://img.shields.io/badge/GitHub-%24292e.svg?logo=github&logoColor=white)](https://github.com/Danrley-Ruan-Saquetti)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/danrley.saquetti.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dan__ruan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danrley-saquetti) [![Whatsapp](https://img.shields.io/badge/Whatsapp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/47988004598) [![GitHub](https://img.shields.io/badge/GitHub-%24292e.svg?logo=github&logoColor=white)](https://github.com/Danrley-Ruan-Saquetti) [![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=gmail&logoColor=white)](danrsaquetti@gmail.com)
 
 ## Contatos
 
--   GitHub [Danrley-Ruan-Saquetti](https://github.com/Danrley-Ruan-Saquetti)
 -   E-mail: danrsaquetti@gmail.com
--   WhatsApp: (47) 98800-4598
 
 ## Formação
 
 -   Curso Técnico Integrado ao Ensino Médio<br>Instituto Federal Catarinense (2020 - 2022)
 -   Cursando Engenharia de Software<br>UDESC - Universidade do Estado de Santa Catarina (2023)
 
-## Experiências
+## ✨ Experiências
 
 -   Monitor de Informática no IFC (2022)
     -   Atuei como bolsista de ensino de monitoria na área da Informática, com carga horária de 288 horas.
@@ -30,9 +28,9 @@ Para ver meu currículo, clique [aqui](https://github.com/Danrley-Ruan-Saquetti/
 -   Auxiliar de escritorio em geral (2023 - Atual)
     -   Trabalho como suporte da plataforma e-commerce da Panorama Sistemas, atuando principalmente no setor de Logística de Frete e Rastreio.
 
-## [Esliph](https://github.com/Esliph)
+## 🧑🏻‍💻 Esliph
 
-A Esliph é uma organização focada no desenvolvimento de tecnologias e pacotes para desenvolvimento de aplicações NodeJS
+A [Esliph](https://github.com/Esliph) é uma organização focada no desenvolvimento de tecnologias e pacotes para desenvolvimento de aplicações NodeJS
 
 # 💻 Stack de Tecnologia
 
@@ -56,7 +54,7 @@ A Esliph é uma organização focada no desenvolvimento de tecnologias e pacotes
 
 ![](https://github-contributor-stats.vercel.app/api?username=Danrley-Ruan-Saquetti&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## Atividade
+## 📊 Minhas Atividades
 
 ![Snake animation](https://github.com/Danrley-Ruan-Saquetti/Danrley-Ruan-Saquetti/blob/output/github-contribution-grid-snake.svg)
 
