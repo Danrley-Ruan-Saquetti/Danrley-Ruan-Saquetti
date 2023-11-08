@@ -8,7 +8,7 @@ Para ver meu currículo, clique [aqui](https://github.com/Danrley-Ruan-Saquetti/
 
 ## 🌐 Social
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/danrley.saquetti.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dan__ruan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danrley-saquetti) [![Whatsapp](https://img.shields.io/badge/Whatsapp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/47988004598) [![GitHub](https://img.shields.io/badge/GitHub-%24292e.svg?logo=github&logoColor=white)](https://github.com/Danrley-Ruan-Saquetti) [![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=gmail&logoColor=white)](danrsaquetti@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/danrley.saquetti.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dan__ruan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danrley-saquetti) [![Whatsapp](https://img.shields.io/badge/Whatsapp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/47988004598) [![GitHub](https://img.shields.io/badge/GitHub-%24292e.svg?logo=github&logoColor=white)](https://github.com/Danrley-Ruan-Saquetti) [![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=gmail&logoColor=white)](mailto:danrsaquetti@gmail.com)
 
 ## Contatos
 
