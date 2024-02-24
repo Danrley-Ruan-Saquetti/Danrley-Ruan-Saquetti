@@ -13,7 +13,7 @@ Para ver meu currículo, clique [aqui](https://github.com/Danrley-Ruan-Saquetti/
 ## 🎓 Formação
 
 -   Curso Técnico Integrado ao Ensino Médio<br>Instituto Federal Catarinense (2020 - 2022)
--   Cursando Engenharia de Software<br>UDESC - Universidade do Estado de Santa Catarina (2023)
+-   Cursando Engenharia de Software<br>UDESC - Universidade do Estado de Santa Catarina (2023 - Atualmente)
 
 ## ✨ Experiências
 
@@ -21,8 +21,8 @@ Para ver meu currículo, clique [aqui](https://github.com/Danrley-Ruan-Saquetti/
     -   Atuei como bolsista de ensino de monitoria na área da Informática, com carga horária de 288 horas.
 -   Auxiliar de Atendimento Temporário (2022)
     -   Trabalhei como auxiliar de atendimento temporário na sede da Viacredi Alto Vale.
--   Auxiliar de escritorio em geral (2023 - Atual)
-    -   Trabalho como suporte da plataforma e-commerce da Panorama Sistemas, atuando principalmente no setor de Logística de Frete e Rastreio.
+-   Auxiliar de escritorio em geral (2023 - Atualmente)
+    -   Trabalho como suporte da plataforma e-commerce da Panorama Sistemas, atuando principalmente no setor operacional de vendas, faturamento e configurações gerais.
 
 ## 🧑🏻‍💻 Esliph
 
