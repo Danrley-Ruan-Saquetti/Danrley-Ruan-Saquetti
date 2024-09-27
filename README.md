@@ -21,8 +21,10 @@ Para ver meu currículo, clique [aqui](https://github.com/Danrley-Ruan-Saquetti/
     -   Atuei como bolsista de ensino de monitoria na área da Informática, com carga horária de 288 horas.
 -   Auxiliar de Atendimento Temporário (2023)
     -   Trabalhei como auxiliar de atendimento temporário na sede da Viacredi Alto Vale.
--   Auxiliar de escritorio em geral (2023 - Atualmente)
-    -   Trabalho como suporte da plataforma e-commerce Panorama Sistemas, atuando principalmente no setor operacional de vendas, faturamento e configurações gerais.
+-   Auxiliar de escritorio em geral (2023 - 2024)
+    -   Trabalhei como suporte da plataforma e-commerce Panorama Sistemas, atuando principalmente no setor operacional de vendas, faturamento e configurações gerais.
+-   Desenvolvedor de Software Júnior (2024 - Atualmente)
+    -   Atualmente sou desenvolvedor de software na empresa da Ponto Gov Sistemas.
 
 ## 🧑🏻‍💻 Esliph
 
