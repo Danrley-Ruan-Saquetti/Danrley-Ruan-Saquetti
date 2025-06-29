@@ -23,7 +23,7 @@ Para ver meu currículo, clique [aqui](https://github.com/Danrley-Ruan-Saquetti/
     -   Trabalhei como auxiliar de atendimento temporário na sede da Viacredi Alto Vale.
 -   Auxiliar de escritorio em geral (2023 - 2024)
     -   Trabalhei como suporte da plataforma e-commerce Panorama Sistemas, atuando principalmente no setor operacional de vendas, faturamento e configurações gerais.
--   Desenvolvedor de Software Júnior (2024 - Atualmente)
+-   Desenvolvedor de Software (2024 - Atualmente)
     -   Atualmente sou desenvolvedor de software na empresa da Ponto Gov Sistemas.
 
 ## 📚 Conhecimentos Técnicos e Áreas de Interesse
@@ -81,6 +81,7 @@ A [Esliph](https://github.com/Esliph) é uma organização cujo o objetivo é o 
 ## 🥉 Stack Terciária de Técnologias
 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
