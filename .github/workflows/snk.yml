@@ -1,0 +1,54 @@
+name: Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours (00:00 and 12:00 UTC)
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths: [.github/workflows/snk.yml]
+
+# Only one run at a time; a newer run waits instead of racing the force push.
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+permissions: {}
+
+env:
+  OUTPUT_DIR: dist
+  OUTPUT_FILE: github-contribution-grid-snake.svg
+  OUTPUT_BRANCH: output
+
+jobs:
+  snake:
+    name: Generate and publish snake animation
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: ${{ env.OUTPUT_DIR }}/${{ env.OUTPUT_FILE }}
+
+      - name: Validate generated file
+        run: |
+          file="$OUTPUT_DIR/$OUTPUT_FILE"
+          cells=$(grep -o 'class="c[^"]*"' "$file" | wc -l)
+          echo "Grid cells found: $cells"
+          if [ "$cells" -lt 300 ]; then
+            echo "::error file=$file::Expected a full contribution grid, found $cells cells"
+            exit 1
+          fi
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: ${{ env.OUTPUT_BRANCH }}
+          build_dir: ${{ env.OUTPUT_DIR }}
+          commit_message: "chore: update contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
