@@ -17,7 +17,8 @@ permissions: {}
 
 env:
   OUTPUT_DIR: dist
-  OUTPUT_FILE: github-contribution-grid-snake.svg
+  OUTPUT_FILE_LIGHT: github-contribution-grid-snake.svg
+  OUTPUT_FILE_DARK: github-contribution-grid-snake-dark.svg
   OUTPUT_BRANCH: output
 
 jobs:
@@ -32,17 +33,20 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: ${{ env.OUTPUT_DIR }}/${{ env.OUTPUT_FILE }}
+          outputs: |
+            ${{ env.OUTPUT_DIR }}/${{ env.OUTPUT_FILE_LIGHT }}?palette=github-light
+            ${{ env.OUTPUT_DIR }}/${{ env.OUTPUT_FILE_DARK }}?palette=github-dark
 
-      - name: Validate generated file
+      - name: Validate generated files
         run: |
-          file="$OUTPUT_DIR/$OUTPUT_FILE"
-          cells=$(grep -o 'class="c[^"]*"' "$file" | wc -l)
-          echo "Grid cells found: $cells"
-          if [ "$cells" -lt 300 ]; then
-            echo "::error file=$file::Expected a full contribution grid, found $cells cells"
-            exit 1
-          fi
+          for file in "$OUTPUT_DIR/$OUTPUT_FILE_LIGHT" "$OUTPUT_DIR/$OUTPUT_FILE_DARK"; do
+            cells=$(grep -o 'class="c[^"]*"' "$file" | wc -l)
+            echo "$file: $cells grid cells"
+            if [ "$cells" -lt 300 ]; then
+              echo "::error file=$file::Expected a full contribution grid, found $cells cells"
+              exit 1
+            fi
+          done
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v5

@@ -113,4 +113,8 @@ A [Esliph](https://github.com/Esliph) é uma organização cujo o objetivo é o 
 
 ## 📊 Minhas Atividades
 
-![Snake animation](https://github.com/Danrley-Ruan-Saquetti/Danrley-Ruan-Saquetti/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danrley-Ruan-Saquetti/Danrley-Ruan-Saquetti/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danrley-Ruan-Saquetti/Danrley-Ruan-Saquetti/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Danrley-Ruan-Saquetti/Danrley-Ruan-Saquetti/output/github-contribution-grid-snake.svg" />
+</picture>
