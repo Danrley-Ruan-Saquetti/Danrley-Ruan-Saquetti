@@ -99,17 +99,9 @@ A [Esliph](https://github.com/Esliph) é uma organização cujo o objetivo é o 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Danrley-Ruan-Saquetti&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danrley-Ruan-Saquetti&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 Troféis GitHub
-
-![](https://github-profile-trophy.vercel.app/?username=Danrley-Ruan-Saquetti&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Citações
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Repositório Mais Contribuído
-
-![](https://github-contributor-stats.vercel.app/api?username=Danrley-Ruan-Saquetti&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 📊 Minhas Atividades
 
