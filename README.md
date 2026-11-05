@@ -6,30 +6,13 @@ Sou um desenvolvedor FullStack júnior com interesse em tecnologias Web e desenv
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danrley-saquetti) [![GitHub](https://img.shields.io/badge/GitHub-1C1E24.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danrley-Ruan-Saquetti) [![Email](https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danrsaquetti@gmail.com)
 
-## 🎓 Formação
-
--   Curso de Informática Técnico Integrado ao Ensino Médio<br>Instituto Federal Catarinense (2020 - 2022).
--   Cursando Engenharia de Software<br>UDESC - Universidade do Estado de Santa Catarina (2023 - Atualmente).
-
-## ✨ Experiências
-
--   Monitor de Informática no IFC (2022)
-    -   Atuei como bolsista de ensino de monitoria na área da Informática, com carga horária de 288 horas.
--   Auxiliar de Atendimento Temporário (2023)
-    -   Trabalhei como auxiliar de atendimento temporário na sede da Viacredi Alto Vale.
--   Auxiliar de escritorio em geral (2023 - 2024)
-    -   Trabalhei como suporte da plataforma e-commerce Panorama Sistemas, atuando principalmente no setor operacional de vendas, faturamento e configurações gerais.
--   Desenvolvedor de Software (2024 - Atualmente)
-    -   Atualmente sou desenvolvedor de software na empresa da Ponto Gov Sistemas.
-
 ## 📚 Conhecimentos Técnicos e Áreas de Interesse
 
-### 🛠️ Conceitos e Arquitetura
-
-- <strong>Design Patterns</strong>: Experiência em padrões de projeto, aplicados para construir sistemas escaláveis e de fácil manutenção.
-- <strong>Princípios SOLID</strong>: Aplicação de princípios da programação orientada a objetos para criar sistemas modulares e de fácil manutenção.
-- <strong>Domain-Driven Design (DDD)</strong>: Conhecimento na modelagem de domínios complexos, promovendo alinhamento entre código e regras de negócio.
-- <strong>Testes Automatizados e TDD</strong>: Experiência no desenvolvimento orientado a testes, com foco em garantir qualidade e confiabilidade do código.
+- Design de Código e Clean Code
+- Desenvolvimento de jogos
+- Estudo de algoritmos e estrutura de dados para a criação de sistemas eficientes
+- Linguagens de programação de baixo nível como C++ e TypeScript (linguagem mais familiarizada)
+- Estudo de redes neurais e aprendizado de máquina
 
 ## 🧑🏻‍💻 Esliph
 
