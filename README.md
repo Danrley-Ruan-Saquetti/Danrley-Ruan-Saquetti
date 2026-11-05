@@ -31,13 +31,16 @@ Sou um desenvolvedor FullStack júnior com interesse em tecnologias Web e desenv
 - <strong>Domain-Driven Design (DDD)</strong>: Conhecimento na modelagem de domínios complexos, promovendo alinhamento entre código e regras de negócio.
 - <strong>Testes Automatizados e TDD</strong>: Experiência no desenvolvimento orientado a testes, com foco em garantir qualidade e confiabilidade do código.
 
-### 🎮 Desenvolvimento de Jogos
-
-Interesse em criação de jogos para plataformas como Unity e Unreal Engine, com foco em mecânicas envolventes e experiência do jogador.
-
 ## 🧑🏻‍💻 Esliph
 
-A [Esliph](https://github.com/Esliph) é uma organização cujo o objetivo é o desenvolvimento de tecnologias e bibliotecas para desenvolvimento de aplicações NodeJS.
+A [@esliph](https://github.com/esliph) é uma organização com foco em criar do zero as próprias ferramentas de base para desenvolver aplicações, em vez de usar bibliotecas prontas. A principal motivação é entender e controlar a ferramenta, com código cuidadoso, testado e documentado.
+
+Na prática, são "peças de framework" próprio no estilo NestJS, escritas em TypeScript:
+
+- metadata: substitui o reflect-metadata.
+- injection: injeção de dependência.
+
+Ao lado disso há projetos de estudo de fundamentos, como uma rede neural em C++ (NeuroForge) e estruturas de dados em TS (Bitstalk).
 
 # 📊 GitHub Stats
 
