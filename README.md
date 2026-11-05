@@ -14,7 +14,7 @@ Sou um desenvolvedor FullStack júnior com interesse em tecnologias Web e desenv
 - Linguagens de programação de baixo nível como C++ e TypeScript (linguagem mais familiarizada)
 - Estudo de redes neurais e aprendizado de máquina
 
-## 🧑🏻‍💻 Esliph
+## <img src="https://raw.githubusercontent.com/esliph/.github/refs/heads/master/assets/avatar/avatar.svg" width="24" height="24"> Esliph
 
 A [@esliph](https://github.com/esliph) é uma organização com foco em criar do zero as próprias ferramentas de base para desenvolver aplicações, em vez de usar bibliotecas prontas. A principal motivação é entender e controlar a ferramenta, com código cuidadoso, testado e documentado.
 
