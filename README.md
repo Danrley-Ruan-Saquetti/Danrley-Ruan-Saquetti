@@ -1,6 +1,6 @@
 # 💫 Sobre mim [![](https://visitcount.itsvg.in/api?id=Danrley-Ruan-Saquetti&icon=9&color=6)](https://visitcount.itsvg.in)
 
-Sou um desenvolvedor FullStack júnior com interesse em tecnologias Web e desenvolvimento de jogos, cursado em Técnico em Informática Integrado ao Ensino Médio no Instituto Federal Catarinense e cursando Engenharia de Software na Univesidade UDESC Alto Vale CEAVI.
+Dev full stack · TypeScript · Construo minhas próprias ferramentas na @esliph · Algoritmos, estruturas de dados, performance, redes neurais e jogos.
 
 ## 🌐 Social
 
